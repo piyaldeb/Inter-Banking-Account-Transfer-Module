@@ -1,4 +1,4 @@
-# Facilitating Seamless Bank Account Transfers: An MVC Approach
+# Facilitating Seamless Bank Account Transfers: A Personal approach
 
 ## Abstract:
 In today's dynamic financial landscape, individuals often find the need to switch banks due to various reasons such as better services, lower fees, or improved accessibility. However, the process of transferring one's bank account from an existing institution to a new one can be daunting, with potential data loss or inconvenience. In this article, we present a novel solution to this problem using the Model-View-Controller (MVC) architectural pattern. By leveraging this structured approach, we ensure a seamless transition for customers looking to shift their bank accounts.
